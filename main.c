@@ -26,7 +26,7 @@ int main(){
 
 
     //it displays the blocks of memory for this struct that was were allocated even we dont keep pointer 
-    // but our memory managment system remembers ans store information 
+    // but our memory managment system remembers ans store information  
     PRINT_BLOCK_MEMORY_LAYOUT(test);
     
     //it shows total blocks that were allocated to this struct and how many used and are free
